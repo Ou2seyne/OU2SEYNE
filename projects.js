@@ -2,7 +2,9 @@
 const projects = [
     { title: "Lodan Market", date: "23 septembre 2025", description: "Lodan Market est une plateforme en ligne moderne et conviviale, offrant une expérience fluide, sécurisée et écoresponsable.", link: "https://lodanmarket.fr" },
     { title: "PokeDex", date: "01 decembre 2024", description: "Un Pokédex interactif en Flutter permettant de consulter les détails des Pokémon avec une interface moderne, mode sombre et gestion des données via API externes.", link: "https://github.com/Ou2seyne/Pokedex" },
+    {title: "SHARE", date: "01 mars 2025", description:"La plateforme idéale pour partager et découvrir de nouveaux contenus Commencer à partager Developpé en Symfony 6.4", link:"http://s3-4131.nuage-peda.fr/sharee/"},
     { title: "Forum API APP", date: "10 mars 2025", link: "https://github.com/Ou2seyne/Forum" },
+    { title: "Vows Lux", date: "10 mars 2025", link: "http://s3-4131.nuage-peda.fr/ecommerce/" },
 ];
 
 const projectList = document.querySelector('.project-list');
